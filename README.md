@@ -14,7 +14,7 @@ The main goal of this research is to find out how age influences the formation o
 To collect data, the database of Project Gutenberg will be used. The work that will be used to represent the language use of a girl will be “A Young Girl's Diary” by Sigmund Freud, Cedar Paul, and Eden Paul. The work that will be used to represent the language use of a man will be “The Journal of a Disappointed Man” by W. N. P. Barbellion.
 This is quantitative data and the sampling method that is best for this simple random sampling.
 
-### References
+## References
 Partridge, Eric. Slang To-Day and Yesterday. Routledge eBooks, 2015. https://www.taylorfrancis.com/books/mono/10.4324/9781315692111/slang-eric-partridge
 Zhou, Yanchun, and Fan, Yanhong. “A Sociolinguistic Study of American Slang.” Theory and Practice in Language Studies 3, no. 12. December 1, 2013. https://www.academypublication.com/issues/past/tpls/vol03/12/08.pdf
 Goswami, Sumit, Sudeshna Sarkar and Mayur Rustag. “View of Stylometric Analysis of Bloggers’ Age and Gender,” 2009. https://ojs.aaai.org/index.php/ICWSM/article/view/13992/13841
