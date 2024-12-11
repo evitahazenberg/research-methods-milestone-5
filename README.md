@@ -4,7 +4,7 @@
 Teenagers frequently use slang in their daily communication. This can lead to confusion and create a language barrier between generations. It is important to know how slang words are formed. This research will analyze slang creation, utilizing the Gutenberg database. The findings aim to provide insights into the role of slang in modern communication.
 
 ## Background information 
-Slang is easy to use, but surprisingly hard to write about, despite seeming like a simple topic at first glance (Partridge, 2015). Age factors influence the use of American slang. American youths, especially the teenagers and college students, are the main consumers and makers of American slang (Changchun & Fan, 2013).
+Slang is easy to use, but surprisingly hard to write about, despite seeming like a simple topic at first glance (Partridge, 2015). Age factors influence the use of American slang. American youths, especially the teenagers and college students, are the main consumers and makers of American slang (Zhou & Fan, 2013).
 The slang words in this report are defined by ‘borrowed words’ and ‘new words’. The borrowed words are words that exist, but originate from a different language. The new words do not exist in English, because these words cannot be found in dictionaries.
 
 ## Research question and hypotheses 
