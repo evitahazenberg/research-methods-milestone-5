@@ -1,14 +1,14 @@
 # Report Outline
 
 ## Abstract
-Teenagers frequently use slang in their daily communication. This can lead to confusion and create a language barrier between generations. It is important to know how slang words are formed. This research will analyze slang creation, utilizing the Gutenberg database. The findings aim to provide insights into the role of slang in modern communication.
+Teenagers frequently use slang in their daily communication. It is important to know how slang words are formed, because the utilage of these words by younger induviduals can lead to confusion around the people who do not know the definitions of the words. This can create a language barrier between generations. This research will analyze slang creation, utilizing the Gutenberg database. The findings aim to provide insights into the role of slang in modern communication (after 1900).
 
 ## Background information 
 Slang is easy to use, but surprisingly hard to write about, despite seeming like a simple topic at first glance (Partridge, 2015). Age factors influence the use of American slang. American youths, especially the teenagers and college students, are the main consumers and makers of American slang (Zhou & Fan, 2013).
-The slang words in this report are defined by ‘borrowed words’ and ‘new words’. The borrowed words are words that exist, but originate from a different language. The new words do not exist in English, because these words cannot be found in dictionaries.
+The slang words in this report are defined by ‘new words’: these words do not exist in English, they cannot be found in the dictionary of the English language.
 
 ## Research question and hypotheses 
-The main goal of this research is to find out how age influences the formation of slang words. Teenagers generally use more non-dictionary  words  than  the  adults. (Goswami et al., 2009). So, younger individuals are more likely to create new words and borrow slang terms, compared to older individuals. 
+The main goal of this research is to find out if age influences the formation of slang words. Teenagers generally use more non-dictionary  words  than  the  adults (Goswami et al., 2009), which means younger individuals are more likely to create new words, compared to older individuals. So, age does influence the formation of slang words. 
 
 ## Method 
 To collect data, the database of Project Gutenberg will be used. The work that will be used to represent the language use of a girl will be “A Young Girl's Diary” by Sigmund Freud, Cedar Paul, and Eden Paul. The work that will be used to represent the language use of a man will be “The Journal of a Disappointed Man” by W. N. P. Barbellion.
